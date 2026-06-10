@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --fundo: #EAF2FD;
+    --azul: #000099;
+}
+
+
+.espaco_lateral {
+    width: 78%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.cor_banner {
+    background-color: var(--azul);
+    height: 271px;
+    width: 100%;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 260px;
+}
+
+
+header>img {
+    width: 120px;
+    height: auto;
+}
+
+.menu {
+    display: flex;
+    gap: 90px;
+    list-style: none;
+    align-items: center;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-family: "BigNoodleTitling", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.menu svg{
+   color: white;
+    width: 40px;
+    height: 40px;
+    margin: 50px;
+}
+
+.menu a:hover {
+    color: #7db7ff;
+}
+
+.user-icon i {
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+
+.user-icon i:hover {
+    color: #7db7ff;
+}
+
+body {
+    background-image: url("./img/Fundo\ site.png");
+}
+
+.titulo {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.titulo h1 {
+    color: var(--azul);
+    font-family: "BigNoodleTitling", sans-serif;
+    font-size: 60px;
+}
+
+.titulo svg {
+    width: 70px;
+    height: 70px;
+    color: var(--azul);
+}
+
+
+.construct {
+    height: 560px;
+    width: 100%;
+    margin-bottom: 80px;
+    border-radius: 28px;
+    overflow: hidden;
+    border: 2px solid rgba(255, 184, 0, 0.8);
+    box-shadow:
+        0 0 20px rgba(255, 184, 0, 0.45),
+        0 0 60px rgba(255, 184, 0, 0.25);
+    background: #111;
+}
+
+
+/* footer {
+    background-color: var(--azul);
+    padding: 50px 0;
+    color:var(--fundo);
+    font-family: "BigNoodleTitling", sans-serif;
+    font-weight: 300;
+}
+
+footer-logo img{
+    width: 180px;
+    margin-bottom: 20px;
+}
+
+.footer-logo p{
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.footer h3{
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.footer ul li{
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.footer-contato p{
+    margin-bottom: 20px;
+    font-size: 20px;
+} */
+
+footer {
+
+    background-color: var(--azul);
+    padding: 50px 0;
+    color: var(--fundo);
+    font-family: "BigNoodleTitling", sans-serif;
+    font-weight: 300;
+}
+
+footer .espaco_lateral {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.footer-logo {
+    width: 35%;
+}
+
+.footer-logo img {
+    width: 120px;
+    margin-bottom: 30px;
+}
+
+.footer-logo p {
+    font-size: 18px;
+}
+
+.footer-nav,
+.footer-contato {
+    width: 25%;
+}
+
+.footer-nav h3,
+.footer-contato h3 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.footer-nav ul,
+.footer-contato ul {
+    padding-left: 25px;
+}
+
+.footer-nav ul li,
+.footer-contato ul li {
+    margin-bottom: 15px;
+    font-size: 19px;
+}
+
+.footer-contato span {
+    display: block;
+    font-size: 16px;
+    margin-top: 5px;
+}

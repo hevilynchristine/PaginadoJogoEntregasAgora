@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106.16 86.82">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 37.79px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: BigNoodleTitling-Oblique, BigNoodleTitling;
+        font-style: oblique;
+      }
+
+      .cls-3 {
+        font-size: 28.84px;
+      }
+    </style>
+  </defs>
+  <g id="Camada_2-2" data-name="Camada 2">
+    <g>
+      <g>
+        <circle class="cls-1" cx="52.74" cy="19.74" r="5.05"/>
+        <circle class="cls-1" cx="74.79" cy="19.54" r="5.05"/>
+        <circle class="cls-1" cx="74.79" cy="21.14" r="1.8"/>
+        <circle class="cls-1" cx="52.74" cy="21.34" r="1.8"/>
+        <path class="cls-1" d="M71.93,2.63c-1.24,6.32-2.48,12.64-3.71,18.96-.02.09.04.16.13.16h15.28s.04,0,.05,0c.14-.04.68-.25.94-.77.13-.25.13-.48.12-.6,0-.01,0-.03,0-.04.24-1.15.48-2.31.72-3.46.02-.09-.04-.17-.13-.17h-.42c-.09,0-.15-.07-.13-.16.37-1.91.74-3.83,1.11-5.74,0-.04,0-.07-.01-.1-.81-3.16-2.91-5.94-5-8.73-.03-.04-.07-.06-.12-.06h-7.99c-.34.28-.53.44-.86.72Z"/>
+        <path class="cls-1" d="M83.62,10.15s-.59.96-.59.96c-.4.33-.85.39-1.04.4h-8.27c-.75,0-1.24-.61-1.09-1.36l.88-4.49c.54-.45,1.08-.91,1.63-1.36,1.55,0,3.87-.14,5.42-.14,2.56,2.61,3.06,5.98,3.06,5.98Z"/>
+        <path class="cls-1" d="M65.57,21.94h-22.52c-.89,0-1.47-.72-1.29-1.61l3.69-18.72c.18-.89,1.04-1.61,1.93-1.61h22.52c.89,0,1.47.72,1.29,1.61l-3.69,18.72c-.18.89-1.04,1.61-1.93,1.61Z"/>
+        <rect class="cls-1" x="40.12" y="2.53" width="14.74" height="2.43" rx="1.22" ry="1.22"/>
+        <rect class="cls-1" x="34.39" y="12.64" width="20.16" height="3.05" rx="1.53" ry="1.53"/>
+        <rect class="cls-1" x="46.39" y="7.67" width="8.16" height="2.59" rx="1.29" ry="1.29"/>
+        <rect class="cls-1" x="32.95" y="2.53" width="5.65" height="2.43" rx="1.22" ry="1.22"/>
+        <rect class="cls-1" x="39.62" y="7.67" width="5.57" height="2.59" rx="1.29" ry="1.29"/>
+        <rect class="cls-1" x="27.43" y="12.64" width="5.52" height="3.05" rx="1.53" ry="1.53"/>
+        <rect class="cls-1" x="39.1" y="17.31" width="5.26" height="2.67" rx="1.33" ry="1.33"/>
+      </g>
+      <text class="cls-3" transform="translate(22.74 49.58)"><tspan x="0" y="0">Entregas </tspan></text>
+      <text class="cls-2" transform="translate(22.06 79.91)"><tspan x="0" y="0">Agora!</tspan></text>
+      <rect class="cls-1" x="12.69" y="61.74" width="14.74" height="2.43" rx="1.22" ry="1.22"/>
+      <rect class="cls-1" x="6.96" y="71.85" width="20.16" height="3.05" rx="1.53" ry="1.53"/>
+      <rect class="cls-1" x="5.52" y="61.74" width="5.65" height="2.43" rx="1.22" ry="1.22"/>
+      <rect class="cls-1" x="12.19" y="66.88" width="5.57" height="2.59" rx="1.29" ry="1.29"/>
+      <rect class="cls-1" x="0" y="71.85" width="5.52" height="3.05" rx="1.53" ry="1.53"/>
+    </g>
+  </g>
+</svg>
