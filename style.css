@@ -1,3 +1,9 @@
+@font-face {
+    font-family: "BigNoodleTitling";
+    src: url("./Fontes/big_noodle_titling.ttf") format("truetype");
+}
+
+
 * {
     margin: 0;
     padding: 0;
